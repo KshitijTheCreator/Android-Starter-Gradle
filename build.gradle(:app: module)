@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.imagesearch'
+    namespace 'com.example.DEFAULT' // REMAINS UNCHANGED
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.imagesearch"
+        applicationId "com.example.DEFAULT" // REMIAINS UNCHANGED
         minSdk 24
         targetSdk 33
         versionCode 1
